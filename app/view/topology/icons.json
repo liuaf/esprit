@@ -1,0 +1,33 @@
+[
+    {
+        "name": "sink",
+        "thumb": "sink.png",
+        "url": "sink",
+        "type": "Application"
+    },
+    {
+        "name": "map app",
+        "thumb": "map.png",
+        "url": "map",
+        "type": "Application"
+    },
+    {
+        "name": "Kiva app",
+        "thumb": "kiva.png",
+        "url": "kiva",
+        "type": "Application"
+    },
+    {
+        "name": "Geocongress",
+        "thumb": "geocongress.png",
+        "url": "geocongress",
+        "type": "Application"
+    },
+    {
+        "name": "guide",
+        "thumb": "guide.png",
+        "url": "guide",
+        "type": "Application"
+    }
+    
+]

@@ -1,0 +1,4 @@
+Ext.define('Esprit.view.auto.AutomaticConfig', {
+	extend: 'Ext.panel.Panel',
+	
+});
